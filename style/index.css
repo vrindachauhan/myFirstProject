@@ -62,7 +62,7 @@ body{
 	font-size: 60px;
 	font-family: 'Nunito', sans-serif;
 	font-weight: 400;	
-	padding: -5px;
+	padding: 15px;
 }
 
 .header .header-text-2{
@@ -73,7 +73,15 @@ body{
 	font-weight: 400;
 	margin-top: 5px;
 }	
+.call{
+	
+	font-size: 45px;
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 60px;
+	text-decoration: underline;
 
+}
 .section-1 .left-section{
 	float: left;
 	width: 870px;
@@ -94,7 +102,7 @@ body{
 	font-size: 25px;
   font-weight: 200;
   font-family: 'Handlee', cursive;
-  padding: 20px;
+  padding: 23px;
 }
 
 .section-1 .right-section{
@@ -112,8 +120,14 @@ body{
 	content: url("http://thrivesearch.com/wp-content/uploads/2014/04/content.jpg");
 	
 }
+.section-2 .footer-1{
+	float: left;
+	content: url("https://www.ssshss.edu.in/images/st_edu/content/BookStack2014-horizontal-72dpi.jpg");
+	padding-top: -150px;
+	padding-left: 30px;
+}
 
-.section-2 .footer{
+.section-2 .footer-2{
   float: inline-end;
   width: 100%;
   height: 60px;
@@ -121,9 +135,9 @@ body{
   margin-top: 11px;
   margin-left: 10px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
   padding-left: 20px;
-  font-size: 25px;
+  font-size: 35px;
   font-family: 'Handlee', cursive;
   font-weight: 200;
   text-align: center;
